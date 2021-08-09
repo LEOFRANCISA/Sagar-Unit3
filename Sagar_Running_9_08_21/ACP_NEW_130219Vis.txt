@@ -1,0 +1,5 @@
+79329
+c:\twincat\plc\visu\autocone-logom1.jpg
+c:\twincat\plc\visu\startbutton.jpg
+c:\twincat\plc\visu\indo_logo1.bmp
+c:\twincat\plc\acp_new_130219vis.txt
